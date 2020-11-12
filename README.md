@@ -2,6 +2,7 @@
 
 ![Forks](https://img.shields.io/github/forks/Alien-Inc/Dynamic-Source-Routing)
 ![Stars](https://img.shields.io/github/stars/Alien-Inc/Dynamic-Source-Routing)
+[![Documentation Status](https://readthedocs.org/projects/dynamic-source-routing/badge/?version=latest)](https://dynamic-source-routing.readthedocs.io/en/latest/?badge=latest)
 ![Issues](https://img.shields.io/github/issues/Alien-Inc/Dynamic-Source-Routing)
 ![License](https://img.shields.io/github/license/Alien-Inc/Dynamic-Source-Routing)
 
