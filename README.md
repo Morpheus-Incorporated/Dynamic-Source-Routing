@@ -24,7 +24,3 @@ Refer Contributing.md file for more details and also the Contributors Code Struc
 
 * **Ebenezer Jesuraj** - [@EbenezerJesuraj](https://github.com/EbenezerJesuraj)
 * **Sujai Ram Prasath C** - [@sujairamprasathc](https://github.com/sujairamprasathc)
-
-### Code Credit
-
-For Individual Code Ownability Refer CODEOWNERS File..
